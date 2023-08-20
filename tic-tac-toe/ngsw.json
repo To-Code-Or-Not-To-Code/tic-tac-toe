@@ -1,0 +1,81 @@
+{
+  "configVersion": 1,
+  "timestamp": 1692488475540,
+  "index": "https://to-code-or-not-to-code.github.io/tic-tac-toe/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://to-code-or-not-to-code.github.io/tic-tac-toe/favicon.ico",
+        "https://to-code-or-not-to-code.github.io/tic-tac-toe/index.html",
+        "https://to-code-or-not-to-code.github.io/tic-tac-toe/main.d3fa37ec41aa1046.js",
+        "https://to-code-or-not-to-code.github.io/tic-tac-toe/manifest.webmanifest",
+        "https://to-code-or-not-to-code.github.io/tic-tac-toe/polyfills.6fc503eb3366fd44.js",
+        "https://to-code-or-not-to-code.github.io/tic-tac-toe/runtime.39d20ba8fca8e3f8.js",
+        "https://to-code-or-not-to-code.github.io/tic-tac-toe/styles.2b7b1c13b54cd707.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://to-code-or-not-to-code.github.io/tic-tac-toe/assets/icons/icon-128x128.png",
+        "https://to-code-or-not-to-code.github.io/tic-tac-toe/assets/icons/icon-144x144.png",
+        "https://to-code-or-not-to-code.github.io/tic-tac-toe/assets/icons/icon-152x152.png",
+        "https://to-code-or-not-to-code.github.io/tic-tac-toe/assets/icons/icon-192x192.png",
+        "https://to-code-or-not-to-code.github.io/tic-tac-toe/assets/icons/icon-384x384.png",
+        "https://to-code-or-not-to-code.github.io/tic-tac-toe/assets/icons/icon-512x512.png",
+        "https://to-code-or-not-to-code.github.io/tic-tac-toe/assets/icons/icon-72x72.png",
+        "https://to-code-or-not-to-code.github.io/tic-tac-toe/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://to-code-or-not-to-code.github.io/tic-tac-toe/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
+    "https://to-code-or-not-to-code.github.io/tic-tac-toe/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
+    "https://to-code-or-not-to-code.github.io/tic-tac-toe/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
+    "https://to-code-or-not-to-code.github.io/tic-tac-toe/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
+    "https://to-code-or-not-to-code.github.io/tic-tac-toe/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://to-code-or-not-to-code.github.io/tic-tac-toe/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://to-code-or-not-to-code.github.io/tic-tac-toe/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
+    "https://to-code-or-not-to-code.github.io/tic-tac-toe/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
+    "https://to-code-or-not-to-code.github.io/tic-tac-toe/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://to-code-or-not-to-code.github.io/tic-tac-toe/index.html": "2456f591830066d2599b2994ac4184c9b67e986b",
+    "https://to-code-or-not-to-code.github.io/tic-tac-toe/main.d3fa37ec41aa1046.js": "390073ea0215ad062d19d9bb157975d6e169b0e9",
+    "https://to-code-or-not-to-code.github.io/tic-tac-toe/manifest.webmanifest": "31856af0477f86abdb8f64546ae4dcada5eee645",
+    "https://to-code-or-not-to-code.github.io/tic-tac-toe/polyfills.6fc503eb3366fd44.js": "04d4b22c8b9260b8d80c7619ae41868de2f6ffae",
+    "https://to-code-or-not-to-code.github.io/tic-tac-toe/runtime.39d20ba8fca8e3f8.js": "f9f2aaabfa7d03a1c3d0f5784bf89d907d0a4b05",
+    "https://to-code-or-not-to-code.github.io/tic-tac-toe/styles.2b7b1c13b54cd707.css": "67703a01761b6660fe5793f000238efba703d445"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
