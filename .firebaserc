@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "angular-tic-tac-toe-pwa-12335"
+  },
+  "targets": {
+    "angular-tic-tac-toe-pwa-12335": {
+      "hosting": {
+        "tic-tac-toe": [
+          "tic-tac-toe-142"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "hosting": [
+    {
+      "site": "tic-tac-toe-142",
+      "public": "public",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ]
+    },
+    {
+      "target": "tic-tac-toe",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}
